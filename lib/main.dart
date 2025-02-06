@@ -23,7 +23,7 @@ class MyApp extends StatelessWidget {
       child: MaterialApp(
         debugShowCheckedModeBanner: false,
         theme: getTheme(),
-        title: 'Jobsy',
+        title: 'Conversa',
         initialRoute: 'loading',
         routes: appRoutes,
       ),
