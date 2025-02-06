@@ -14,9 +14,9 @@ Una app de mensajeria privada.
 
 Temas puntuales de proyecto:
 
-1.Coneccción a mi socket server (Socket.IO)
+1.Conexión a mi socket server (Socket.IO)
 
-2.Comunicación de eventos desde y hacia Flutter (messsages,login)
+2.Comunicación de eventos desde y hacia Flutter (messsages,auth)
 
 3.Autenticación cliente de sockets
 
